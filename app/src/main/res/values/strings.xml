@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pull-up app</string>
+    <string name="add_timer">Да</string>
+    <string name="cancel">Нет</string>
+    <string name="repeats">Количество повторов</string>
+    <string name="time">Количество секунд</string>
+    <string name="new_timer">Добавить таймер</string>
+    <string name="edit_timer">Сохранить изменения</string>
+</resources>
